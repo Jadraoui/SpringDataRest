@@ -1,0 +1,10 @@
+org\ensias\cours\CoursRepository.class
+org\ensias\cours\Cours.class
+org\ensias\cours\CoursController.class
+org\ensias\cours\CoursService.class
+org\ensias\Tp3SpringbootJpaApplication.class
+org\ensias\SwaggerConfig.class
+org\ensias\modules\ModuleControleur.class
+org\ensias\modules\ModuleRepository.class
+org\ensias\modules\ModuleService.class
+org\ensias\modules\Module.class

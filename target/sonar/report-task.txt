@@ -1,0 +1,6 @@
+projectKey=org.cours.springboot-pa:cours-springboot-jpa
+serverUrl=http://localhost:9000
+serverVersion=9.2.4.50792
+dashboardUrl=http://localhost:9000/dashboard?id=org.cours.springboot-pa%3Acours-springboot-jpa
+ceTaskId=AX4XbPLY-ivqbwvUdMDK
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX4XbPLY-ivqbwvUdMDK
